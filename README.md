@@ -1,4 +1,4 @@
-Looks Good To Me (LGTM): Authentication for Augmented Reality
+ Looks Good To Me (LGTM): Authentication for Augmented Reality
 -------------------------------------------------------------
 
 I would greatly appreciate it if any researchers using this work for a publication cite my thesis, found here:  
